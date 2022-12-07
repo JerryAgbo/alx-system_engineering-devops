@@ -1,1 +1,2 @@
--e#!/bin/bash\n echo "hello $USER "
+#!/bin/bash\n
+echo "hello $USER "
